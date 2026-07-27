@@ -46,7 +46,7 @@ function showDateTime() {
 
 // Animated typing effect
 function startTypingEffect() {
-    const message = "🎉 Happy Birthday Ankuuu🥳❤️! May all your dreams come true and happiness always surround you! 🥳🎂";
+    const message = "🎉 Happy Birthday Jigri🥳❤️! May all your dreams come true and happiness always surround you! 🥳🎂";
     let i = 0;
     typedTextEl.innerText = '';
 
